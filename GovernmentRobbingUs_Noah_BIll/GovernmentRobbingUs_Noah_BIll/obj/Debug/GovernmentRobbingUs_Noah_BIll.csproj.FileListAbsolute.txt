@@ -1,0 +1,7 @@
+C:\CCRI C# Course\NoahJager Source Code COMI 1125\GovernmentRobbingUs_Noah_BIll\GovernmentRobbingUs_Noah_BIll\bin\Debug\GovernmentRobbingUs_Noah_BIll.exe.config
+C:\CCRI C# Course\NoahJager Source Code COMI 1125\GovernmentRobbingUs_Noah_BIll\GovernmentRobbingUs_Noah_BIll\bin\Debug\GovernmentRobbingUs_Noah_BIll.exe
+C:\CCRI C# Course\NoahJager Source Code COMI 1125\GovernmentRobbingUs_Noah_BIll\GovernmentRobbingUs_Noah_BIll\bin\Debug\GovernmentRobbingUs_Noah_BIll.pdb
+C:\CCRI C# Course\NoahJager Source Code COMI 1125\GovernmentRobbingUs_Noah_BIll\GovernmentRobbingUs_Noah_BIll\obj\Debug\GovernmentRobbingUs_Noah_BIll.csprojResolveAssemblyReference.cache
+C:\CCRI C# Course\NoahJager Source Code COMI 1125\GovernmentRobbingUs_Noah_BIll\GovernmentRobbingUs_Noah_BIll\obj\Debug\GovernmentRobbingUs_Noah_BIll.csproj.CoreCompileInputs.cache
+C:\CCRI C# Course\NoahJager Source Code COMI 1125\GovernmentRobbingUs_Noah_BIll\GovernmentRobbingUs_Noah_BIll\obj\Debug\GovernmentRobbingUs_Noah_BIll.exe
+C:\CCRI C# Course\NoahJager Source Code COMI 1125\GovernmentRobbingUs_Noah_BIll\GovernmentRobbingUs_Noah_BIll\obj\Debug\GovernmentRobbingUs_Noah_BIll.pdb
